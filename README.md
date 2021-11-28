@@ -26,3 +26,5 @@ Ans: I think robot framework is easy to understand. I prefer to use Robotframewo
 #### 3) What tutorial or online resource(s) did you find most helpful for learning Robot Framework?
 
 https://www.youtube.com/watch?v=xqN4DSUf_Gs
+
+Ingkharat Jangchud 6010545960
